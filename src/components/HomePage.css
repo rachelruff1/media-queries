@@ -1,0 +1,38 @@
+.homepage-container{
+ height: 100vh
+}
+
+.homepage-content {
+  text-align: center;
+  color: white;
+}
+
+.welcome {
+  padding-top: 12%;
+  font-size: 40px;
+  font-style: italic;
+  line-height: 40px;
+  margin-bottom: 25px;
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.meet {
+  font-size: 450%;
+  font-weight: 200%;
+  padding-bottom: 50px;
+}
+
+.more {
+  background-color: #fed136;
+  border-color: #fed136;
+  color: white;
+  font-size: 18px;
+  padding: 20px 40px;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: none;
+  border-radius: 5px;
+}
+
+.more:hover {
+  background-color: #f0c322;
+}
